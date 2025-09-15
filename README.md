@@ -1,5 +1,5 @@
 # Vireka Jewelry Store- E-commerce Web Application
-[Live E-commerce website](https://evra-jewlry.vercel.app/) | [Evra_jewelry GitHub](https://github.com/KadamAmruta03/EVRA_JEWLRY)
+[Live E-commerce website][(https://evra-jewlry.vercel.app/](https://vireka-jewelry-store.vercel.app/)) | [Vireka-Jewelry-Store GitHub]([https://github.com/KadamAmruta03/EVRA_JEWLRY](https://github.com/vaidehispatil/Vireka-Jewelry-Store))
 
 Vireka Jewelry Store is a modern, responsive e-commerce web application built using React. This project simulates a small-scale online jewelry store, allowing users to browse a wide range of jewelry products, view detailed information, and add items to a shopping cart. It demonstrates my skills in front-end development, state management using React Context, and dynamic user interface design.  
 
